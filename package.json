@@ -1,8 +1,5 @@
 {
-  "engines" : { 
-    "node" : "16.19.0",
-    "npm" : "8.0.0"
-  },
+  
   "name": "sac-notification",
   "version": "1.0.0",
   "description": "",
